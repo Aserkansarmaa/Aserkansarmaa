@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Aserkansarmaa
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me aserkansarma@gmail.com
+- 😄 Pronouns: He/Him
